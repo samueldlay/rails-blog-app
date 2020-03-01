@@ -1,2 +1,4 @@
-# rails-blog-app
-A simple blog app written with Rails
+# README
+
+## How to run:
+* _rails s_ to serve
